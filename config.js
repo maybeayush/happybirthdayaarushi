@@ -29,7 +29,7 @@ const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
   name: "NITIN",
   photo: "./img/685853551_18421509958133671_8894650834466654456_n.jpg",       // Place your photo in the img/ folder
-  music: "./music/hbd.mpeg",      // Place your music in the music/ folder
+  music: "./music/audio.mp3",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
   // A toggle button lets the viewer switch between dark & light mode.
