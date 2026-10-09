@@ -27,7 +27,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "NITIN",
+  name: "AARUSHI",
   photo: "./img/685853551_18421509958133671_8894650834466654456_n.jpg",       // Place your photo in the img/ folder
   music: "./music/audio.mp3",      // Place your music in the music/ folder
 
@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "HELLO",
-      subtitle: " NITIN AHLAWAT!",
+      subtitle: " AARUSHI 😝!",
     },
     {
       type: "countdown",
@@ -99,7 +99,7 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Birthday Bhai!",
+      wishTitle: "Happy Birthday TO The Mastikhor ladki!",
       wishText: "May you get everything you want! ;)",
     },
     {
