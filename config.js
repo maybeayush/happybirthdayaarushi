@@ -28,7 +28,7 @@
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
   name: "AARUSHI",
-  photo: "./img/685853551_18421509958133671_8894650834466654456_n.jpg",       // Place your photo in the img/ folder
+  photo: "./img/IMG-20260814-WA0354.jpg",       // Place your photo in the img/ folder
   music: "./music/audio.mp3",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
